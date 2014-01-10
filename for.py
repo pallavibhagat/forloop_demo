@@ -1,4 +1,4 @@
-"this is for loop prog done by kumari"
+ "this is for loop prog done by pallavi bhagat"
 def fun():
     for i in range(10):
         print i
